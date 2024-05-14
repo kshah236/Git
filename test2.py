@@ -1,1 +1,1 @@
-print("Kush is the goat")
+print("Kush is the")
